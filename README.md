@@ -1,0 +1,2 @@
+# Rares-bot
+Rares bot
